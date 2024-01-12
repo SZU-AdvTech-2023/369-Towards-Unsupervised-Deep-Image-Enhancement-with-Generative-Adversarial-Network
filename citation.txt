@@ -1,0 +1,9 @@
+@article{REPO369,
+    author = "Ni, Zhangkai and Yang, Wenhan and Wang, Shiqi and Ma, Lin and Kwong, Sam",
+    journal = "IEEE Transactions on Image Processing",
+    number = "",
+    pages = "9140-9151",
+    title = "{Towards Unsupervised Deep Image Enhancement With Generative Adversarial Network}",
+    volume = "29",
+    year = "2020"
+}
